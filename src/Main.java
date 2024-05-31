@@ -68,5 +68,8 @@ public class Main {
 
         Dijkstra.dijkstra(cities, 2, 5);
         // Dijkstra's algorithm found the shortest path.
+
+        // The examples for the third part that are not given as 'Examples' are already listed whatsoever
+        // The ones that are explicitly written: RecursionExample, BigONotationExample, StackQueueExample, HashTableExample.
     }
 }
